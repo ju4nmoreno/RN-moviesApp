@@ -3,8 +3,9 @@
 ## in this app a simple Movies App  
 
 
-<img src='https://tools.publicis.sapient.com/bitbucket/projects/RN/repos/rn-movies-app/raw/assets/01.png?at=refs%2Fheads%2Fmain' width='200' >
-<img src='https://tools.publicis.sapient.com/bitbucket/projects/RN/repos/rn-movies-app/raw/assets/02.png?at=refs%2Fheads%2Fmain' width='200' >
+![01](https://github.com/user-attachments/assets/fa40a98f-2d32-4d66-b033-457b585ee0b1)
+![02](https://github.com/user-attachments/assets/0e91b566-0b72-43a8-9288-c01e735f465c)
+
 
 This application is created with:
 - [React Native CLI](https://reactnative.dev/docs/next/getting-started-without-a-framework)
